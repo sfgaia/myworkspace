@@ -1,5 +1,5 @@
-This is a sample text file.
-It contains multiple lines of text.John
+This is a sample text file.Jane
+It contains multiple lines of text.John,Jane
 The keyword "sample" appears in this line.
 Another line without the keyword.
 John
