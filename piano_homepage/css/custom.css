@@ -1,0 +1,14 @@
+.active{
+    border-bottom: 1px solid;
+}
+
+.bg-piano{
+    background: url(../img/bg-piano.jpg) center no-repeat;
+    background-size: cover;
+}
+
+.teacher-card-img {
+    width: 100%;
+    height: auto;
+    text-align: center;
+  }
